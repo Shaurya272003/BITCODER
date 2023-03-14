@@ -1,2 +1,2 @@
-# BITCODER
- hackathon project
+# BITCODERS
+CYBERTHON project
